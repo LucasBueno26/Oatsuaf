@@ -1,0 +1,6 @@
+name: Oatsuaf
+version: 0.2
+authors: [Ducky#3370]
+main: ml.lbplugins.oatsuaf.Main
+commands:
+  oatsuaf:
